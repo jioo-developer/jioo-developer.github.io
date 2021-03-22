@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.50d147d6.chunk.css",
+    "main.css": "/static/css/main.edffe3ff.chunk.css",
     "main.js": "/static/js/main.ac107c8a.chunk.js",
     "main.js.map": "/static/js/main.ac107c8a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0601f826.js",
@@ -10,14 +10,14 @@
     "static/js/3.ec4fa91b.chunk.js": "/static/js/3.ec4fa91b.chunk.js",
     "static/js/3.ec4fa91b.chunk.js.map": "/static/js/3.ec4fa91b.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.50d147d6.chunk.css.map": "/static/css/main.50d147d6.chunk.css.map",
+    "static/css/main.edffe3ff.chunk.css.map": "/static/css/main.edffe3ff.chunk.css.map",
     "static/js/2.d000c488.chunk.js.LICENSE.txt": "/static/js/2.d000c488.chunk.js.LICENSE.txt",
     "static/media/reset.css": "/static/media/AppleSDGothicNeoSB.d1f5bc8b.eot"
   },
   "entrypoints": [
     "static/js/runtime-main.0601f826.js",
     "static/js/2.d000c488.chunk.js",
-    "static/css/main.50d147d6.chunk.css",
+    "static/css/main.edffe3ff.chunk.css",
     "static/js/main.ac107c8a.chunk.js"
   ]
 }
